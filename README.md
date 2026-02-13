@@ -33,8 +33,6 @@ Built with a high-performance **C# WPF frontend** and a powerful **Python 3.13 b
 
 ## Installation
 
-Choose the version that best fits your setup:
-
 | Variant | Size | Recommended For | Requirements |
 | :--- | :--- | :--- | :--- |
 | <img src="https://img.shields.io/badge/Full_Release-RECOMMENDED-success?style=for-the-badge" /> | ~134-255MB | New users who want a complete setup | None (Self-contained) |
@@ -67,5 +65,6 @@ Using this software in online environments may violate a game's terms of service
 Made with care by **Azusa**
 
 </div>
+
 
 
