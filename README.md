@@ -37,9 +37,7 @@ Choose the version that best fits your setup:
 
 | Variant | Size | Recommended For | Requirements |
 | :--- | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Full_Release-RECOMMENDED-success?style=for-the-badge" /> | ~227 MB | New users who want a complete setup | None (Self-contained) |
-| <img src="https://img.shields.io/badge/Small_Update-STANDALONE-blue?style=for-the-badge" /> | ~162 MB | Existing users updating. | Existing backend cache |
-| <img src="https://img.shields.io/badge/Tiny_Update-LIGHTWEIGHT-orange?style=for-the-badge" /> | ~258 KB | Old Users who wants to update with smaller size. | .NET 8 Desktop Runtime |
+| <img src="https://img.shields.io/badge/Full_Release-RECOMMENDED-success?style=for-the-badge" /> | ~134-255MB | New users who want a complete setup | None (Self-contained) |
 
 > Note: If the .NET runtime is not installed, Windows will prompt you automatically when launching the Tiny Update.
 
@@ -69,4 +67,5 @@ Using this software in online environments may violate a game's terms of service
 Made with care by **Azusa**
 
 </div>
+
 
