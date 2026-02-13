@@ -8,7 +8,7 @@
 [![Version](https://img.shields.io/github/v/release/notazusaa/zuix-releases?label=Version&style=for-the-badge&color=FFB400)](https://github.com/notazusaa/zuix-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/notazusaa/zuix-releases/total?style=for-the-badge&color=blueviolet)](https://github.com/notazusaa/zuix-releases/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows)](https://github.com/notazusaa/zuix-releases)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge)](LICENSE)
 
 <br />
 
@@ -69,3 +69,4 @@ Using this software in online environments may violate a game's terms of service
 Made with care by **Azusa**
 
 </div>
+
